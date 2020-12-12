@@ -41,8 +41,9 @@
 		<changefreq>daily</changefreq>
   </url>
 	<url>
-    <loc>https://sitemapijo.netlify.app/sitemap-anekaresepkacang-web-app.xml</loc>
+    <loc>https://sitemapijo.netlify.app/sitemap-iniresepmasakan-web-app.xml</loc>
 		<priority>0.7</priority>		
 		<changefreq>daily</changefreq>
   </url>
+	
   </urlset>
