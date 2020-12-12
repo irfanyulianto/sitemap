@@ -35,4 +35,9 @@
 		<priority>0.7</priority>		
 		<changefreq>daily</changefreq>
   </url>
+	<url>
+    <loc>https://sitemapijo.netlify.app/sitemap-surgaresepkacang-web-app.xml</loc>
+		<priority>0.7</priority>		
+		<changefreq>daily</changefreq>
+  </url>
   </urlset>
