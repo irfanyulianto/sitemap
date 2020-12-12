@@ -120,4 +120,9 @@
 		<priority>0.7</priority>		
 		<changefreq>daily</changefreq>
   </url>
+<url>
+    <loc>https://sitemapijo.netlify.app/sitemap-rolls-royce-1f022-webapp.xml</loc>
+		<priority>0.7</priority>		
+		<changefreq>daily</changefreq>
+  </url>
   </urlset>
